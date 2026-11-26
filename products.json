@@ -1,0 +1,346 @@
+[
+  {
+    "id": 1,
+    "name": "McLaren Carbon Orange",
+    "category": "Supercars",
+    "price": 349,
+    "image": "images/car-01.jpg",
+    "bg": "#dadad8"
+  },
+  {
+    "id": 2,
+    "name": "McLaren Carbon Orange (Rear Angle)",
+    "category": "Supercars",
+    "price": 329,
+    "image": "images/car-02.jpg",
+    "bg": "#dddcd7"
+  },
+  {
+    "id": 3,
+    "name": "McLaren P1 Black",
+    "category": "Supercars",
+    "price": 319,
+    "image": "images/car-03.jpg",
+    "bg": "#878889"
+  },
+  {
+    "id": 4,
+    "name": "McLaren P1 Orange",
+    "category": "Supercars",
+    "price": 299,
+    "image": "images/car-04.jpg",
+    "bg": "#b4c9ca"
+  },
+  {
+    "id": 5,
+    "name": "Koenigsegg Agera White",
+    "category": "Supercars",
+    "price": 339,
+    "image": "images/car-05.jpg",
+    "bg": "#242527"
+  },
+  {
+    "id": 6,
+    "name": "Lamborghini Huracán Yellow",
+    "category": "Supercars",
+    "price": 309,
+    "image": "images/car-06.jpg",
+    "bg": "#000000"
+  },
+  {
+    "id": 7,
+    "name": "Ferrari F40 #27",
+    "category": "Supercars",
+    "price": 349,
+    "image": "images/car-07.jpg",
+    "bg": "#ffffff"
+  },
+  {
+    "id": 8,
+    "name": "Custom Mustang Black",
+    "category": "Muscle Cars",
+    "price": 229,
+    "image": "images/car-08.jpg",
+    "bg": "#ffffff"
+  },
+  {
+    "id": 9,
+    "name": "Toyota Supra Gold Chrome",
+    "category": "JDM",
+    "price": 249,
+    "image": "images/car-09.jpg",
+    "bg": "#ffffff"
+  },
+  {
+    "id": 10,
+    "name": "Mercedes CLK GTR Silver",
+    "category": "Supercars",
+    "price": 329,
+    "image": "images/car-10.jpg",
+    "bg": "#ffffff"
+  },
+  {
+    "id": 11,
+    "name": "Aston Martin Vantage GT Carbon",
+    "category": "Racing",
+    "price": 299,
+    "image": "images/car-11.jpg",
+    "bg": "#ffffff"
+  },
+  {
+    "id": 12,
+    "name": "Nissan Skyline GT-R R33 Purple",
+    "category": "JDM",
+    "price": 229,
+    "image": "images/car-12.jpg",
+    "bg": "#ffffff"
+  },
+  {
+    "id": 13,
+    "name": "Lamborghini Diablo Liberty Walk",
+    "category": "Supercars",
+    "price": 319,
+    "image": "images/car-13.jpg",
+    "bg": "#737372"
+  },
+  {
+    "id": 14,
+    "name": "McLaren F1 Black",
+    "category": "Supercars",
+    "price": 299,
+    "image": "images/car-14.jpg",
+    "bg": "#ffffff"
+  },
+  {
+    "id": 15,
+    "name": "Ford Mustang 1969 Black",
+    "category": "Muscle Cars",
+    "price": 209,
+    "image": "images/car-15.jpg",
+    "bg": "#ffffff"
+  },
+  {
+    "id": 16,
+    "name": "Nissan Skyline GT-R R33 Silver",
+    "category": "JDM",
+    "price": 219,
+    "image": "images/car-16.jpg",
+    "bg": "#0d0d0d"
+  },
+  {
+    "id": 17,
+    "name": "Red Bull F1 Car",
+    "category": "Racing",
+    "price": 279,
+    "image": "images/car-17.jpg",
+    "bg": "#ffffff"
+  },
+  {
+    "id": 18,
+    "name": "Mazda RX-7 Tuned",
+    "category": "JDM",
+    "price": 199,
+    "image": "images/car-18.jpg",
+    "bg": "#ffffff"
+  },
+  {
+    "id": 19,
+    "name": "Lamborghini Countach White",
+    "category": "Supercars",
+    "price": 339,
+    "image": "images/car-19.jpg",
+    "bg": "#ffffff"
+  },
+  {
+    "id": 20,
+    "name": "Mercedes F1 Car",
+    "category": "Racing",
+    "price": 269,
+    "image": "images/car-20.jpg",
+    "bg": "#ffffff"
+  },
+  {
+    "id": 21,
+    "name": "Honda NSX GT ARTA",
+    "category": "Racing",
+    "price": 249,
+    "image": "images/car-21.jpg",
+    "bg": "#fefefe"
+  },
+  {
+    "id": 22,
+    "name": "Shelby Mustang Grey",
+    "category": "Muscle Cars",
+    "price": 199,
+    "image": "images/car-22.jpg",
+    "bg": "#ffffff"
+  },
+  {
+    "id": 23,
+    "name": "Toyota GR86 Race Livery",
+    "category": "Racing",
+    "price": 289,
+    "image": "images/car-23.jpg",
+    "bg": "#0c0c0e"
+  },
+  {
+    "id": 24,
+    "name": "Bone Shaker",
+    "category": "Hot Rods & More",
+    "price": 199,
+    "image": "images/car-24.jpg",
+    "bg": "#fefefe"
+  },
+  {
+    "id": 25,
+    "name": "Twin Mill",
+    "category": "Hot Rods & More",
+    "price": 179,
+    "image": "images/car-25.jpg",
+    "bg": "#fefefe"
+  },
+  {
+    "id": 26,
+    "name": "Rodger Dodger",
+    "category": "Muscle Cars",
+    "price": 189,
+    "image": "images/car-26.jpg",
+    "bg": "#fefefe"
+  },
+  {
+    "id": 27,
+    "name": "Custom Camaro",
+    "category": "Muscle Cars",
+    "price": 179,
+    "image": "images/car-27.jpg",
+    "bg": "#fefefe"
+  },
+  {
+    "id": 28,
+    "name": "Nissan Skyline GT-R",
+    "category": "JDM",
+    "price": 239,
+    "image": "images/car-28.jpg",
+    "bg": "#fefefe"
+  },
+  {
+    "id": 29,
+    "name": "Lamborghini Aventador",
+    "category": "Supercars",
+    "price": 309,
+    "image": "images/car-29.jpg",
+    "bg": "#fefefe"
+  },
+  {
+    "id": 30,
+    "name": "Porsche 911 GT3 RS",
+    "category": "Supercars",
+    "price": 349,
+    "image": "images/car-30.jpg",
+    "bg": "#fefefe"
+  },
+  {
+    "id": 31,
+    "name": "Deora II",
+    "category": "Hot Rods & More",
+    "price": 169,
+    "image": "images/car-31.jpg",
+    "bg": "#fefefe"
+  },
+  {
+    "id": 32,
+    "name": "1969 Dodge Charger",
+    "category": "Muscle Cars",
+    "price": 219,
+    "image": "images/car-32.jpg",
+    "bg": "#fefefe"
+  },
+  {
+    "id": 33,
+    "name": "McLaren F1 Silver",
+    "category": "Supercars",
+    "price": 329,
+    "image": "images/car-33.jpg",
+    "bg": "#fdfdfd"
+  },
+  {
+    "id": 34,
+    "name": "Street Wiener",
+    "category": "Hot Rods & More",
+    "price": 159,
+    "image": "images/car-34.jpg",
+    "bg": "#fefefe"
+  },
+  {
+    "id": 35,
+    "name": "Dune-A-Go-Go",
+    "category": "Hot Rods & More",
+    "price": 150,
+    "image": "images/car-35.jpg",
+    "bg": "#fdfdfc"
+  },
+  {
+    "id": 36,
+    "name": "’32 Ford Coupe",
+    "category": "Hot Rods & More",
+    "price": 189,
+    "image": "images/car-36.jpg",
+    "bg": "#fefdfd"
+  },
+  {
+    "id": 37,
+    "name": "Pagani Huayra",
+    "category": "Supercars",
+    "price": 319,
+    "image": "images/car-37.jpg",
+    "bg": "#fefefe"
+  },
+  {
+    "id": 38,
+    "name": "Koenigsegg Jesko",
+    "category": "Supercars",
+    "price": 299,
+    "image": "images/car-38.jpg",
+    "bg": "#fefefe"
+  },
+  {
+    "id": 39,
+    "name": "Volkswagen Beetle",
+    "category": "Hot Rods & More",
+    "price": 175,
+    "image": "images/car-39.jpg",
+    "bg": "#fefdfd"
+  },
+  {
+    "id": 40,
+    "name": "’70 Dodge Challenger",
+    "category": "Muscle Cars",
+    "price": 229,
+    "image": "images/car-40.jpg",
+    "bg": "#fefefe"
+  },
+  {
+    "id": 41,
+    "name": "Batmobile",
+    "category": "Hot Rods & More",
+    "price": 165,
+    "image": "images/car-41.jpg",
+    "bg": "#fefefe"
+  },
+  {
+    "id": 42,
+    "name": "Monster Truck",
+    "category": "Hot Rods & More",
+    "price": 155,
+    "image": "images/car-42.jpg",
+    "bg": "#fefefe"
+  },
+  {
+    "id": 43,
+    "name": "Jeep Wrangler",
+    "category": "Hot Rods & More",
+    "price": 199,
+    "image": "images/car-43.jpg",
+    "bg": "#fefefe"
+  }
+]

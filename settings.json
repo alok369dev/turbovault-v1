@@ -1,0 +1,38 @@
+{
+  "storeName": "TurboVault",
+  "gstRate": 5,
+  "gstin": "",
+  "shipping": {
+    "zones": [
+      {
+        "name": "Nearby",
+        "prefixes": [
+          "400",
+          "401"
+        ],
+        "flat": 39,
+        "freeAbove": 499
+      },
+      {
+        "name": "Within state",
+        "prefixes": [
+          "40",
+          "41",
+          "42",
+          "43",
+          "44"
+        ],
+        "flat": 59,
+        "freeAbove": 599
+      },
+      {
+        "name": "Rest of India",
+        "prefixes": [
+          "*"
+        ],
+        "flat": 89,
+        "freeAbove": 799
+      }
+    ]
+  }
+}
